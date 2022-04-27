@@ -6,7 +6,7 @@ A real-world student attendance system which recognizes face of student and atte
 
 
 
-## Authors
+## Developers
 
 - [@TharunreddyR](https://github.com/R-TharunReddy)
 - [@Vamsi Bhogaraju](https://github.com/vamsibhogaraju)
@@ -51,7 +51,7 @@ Install my-project with the github source code option
     
 ## Screenshots
 
-![App Screenshot ](https://drive.google.com/file/d/1-t_TVTF4O1qgV9O5Q9FfpDAzvBZAam3O/view?usp=sharing)
+![App Screenshot ]()
 
 
 ## Tech Stack
