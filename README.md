@@ -49,16 +49,17 @@ Install my-project with the github source code option
   install required libraries from requirments.txt
 ```
     
-## Screenshots
-
-![Main Interface](img/1.png)
-![Student page](img/2.png)
-![Train page](img/3.png)
-![test page](img/4.png)
-![result ](img/5.png)
-![result1](img/6.png)
-![result2](img/7.png)
-![details](img/8.png)
+## Screenshots<br>
+Main Interface
+![Main Interface](img/1.png)<br>
+<br>Student page
+![Student page](img/2.png)<br><br>Train page
+![Train page](img/3.png)<br><br>Test page
+![test page](img/4.png)<br><br>Result 
+![result ](img/5.png)<br><br>Result1
+![result1](img/6.png)<br><br>Result2
+![result2](img/7.png)<br><br>Details
+![details](img/8.png)<br><br>
 
 
 ## Tech Stack
