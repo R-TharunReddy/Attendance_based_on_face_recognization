@@ -51,7 +51,14 @@ Install my-project with the github source code option
     
 ## Screenshots
 
-![App Screenshot ]()
+![Main Interface](img/1.png)
+![Student page](img/2.png)
+![Train page](img/3.png)
+![test page](img/4.png)
+![result ](img/5.png)
+![result1](img/6.png)
+![result2](img/7.png)
+![details](img/8.png)
 
 
 ## Tech Stack
